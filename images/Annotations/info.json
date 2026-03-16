@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 23,
+    "height" : 17
+  }, {
+    "width" : 45,
+    "height" : 33
+  }, {
+    "width" : 90,
+    "height" : 65
+  }, {
+    "width" : 179,
+    "height" : 129
+  }, {
+    "width" : 357,
+    "height" : 257
+  }, {
+    "width" : 713,
+    "height" : 513
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 713,
+  "@id" : "https://olivehigham.github.io/OliveGitHub/images/Annotations",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 513
+}
